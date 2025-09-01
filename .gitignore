@@ -1,2 +1,5 @@
 /.DS_Store
 /.venv
+Config/__pycache__/Settings.cpython-313.pyc
+Model/__pycache__/documentData.cpython-313.pyc
+Services/__pycache__/documentService.cpython-313.pyc
